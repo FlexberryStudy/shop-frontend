@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Магазин",
+  "name": "IISShopМагазинE",
+  "className": "МагазинE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-shop-магазин",
+      "modelProjection": "МагазинE"
+    }
+  ]
+}

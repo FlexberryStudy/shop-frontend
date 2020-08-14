@@ -1,0 +1,44 @@
+﻿{
+  "applicationCaption": "Shop",
+  "applicationTitle": "Shop",
+  "items": [
+    {
+      "link": null,
+      "menuName": "shop",
+      "caption": "Shop",
+      "title": "Shop",
+      "children": [
+        {
+          "link": "i-i-s-shop-продажа-l",
+          "menuName": null,
+          "caption": "Продажа",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочники",
+      "caption": "Справочники",
+      "title": "Справочники",
+      "children": [
+        {
+          "link": "i-i-s-shop-магазин-l",
+          "menuName": null,
+          "caption": "Магазин",
+          "title": "Магазин",
+          "children": null
+        },
+        {
+          "link": "i-i-s-shop-товар-l",
+          "menuName": null,
+          "caption": "Товар",
+          "title": "Товар",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

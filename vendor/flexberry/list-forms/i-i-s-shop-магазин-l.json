@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-shop-магазин-e",
+  "editForm": "i-i-s-shop-магазин-e",
+  "external": false,
+  "caption": "Магазин",
+  "name": "IISShopМагазинL",
+  "className": "МагазинL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-shop-магазин",
+      "modelProjection": "МагазинL"
+    }
+  ]
+}
